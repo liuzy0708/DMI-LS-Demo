@@ -8,6 +8,8 @@ Safety assessment is a critical task in various domains, including autonomous dr
 
 Our approach introduces a dynamic model interpretation-guided online active learning scheme, which dynamically selects and labels the most informative data points for model updating. By continuously adapting to changes in the environment and leveraging model interpretation, our scheme enhances the efficiency and effectiveness of safety assessment in real-time scenarios.
 
+<img width="573" alt="截屏2024-04-08 17 05 58" src="https://github.com/liuzy0708/DMI-LS-Demo/assets/130448346/5c5d20d6-ec74-4e00-962a-ef68af07f732">
+
 ## Key Features
 
 - Dynamic model interpretation-guided active learning.
