@@ -84,6 +84,25 @@ Contributions are welcome! If you have any suggestions, bug fixes, or new featur
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+
+## Citation
+
+If you find this repository or the implemented scheme useful in your research or work, please consider citing:
+
+```
+@ARTICLE{10375819,
+  author={He, Xiao and Liu, Zeyi},
+  journal={IEEE Transactions on Cybernetics}, 
+  title={Dynamic Model Interpretation-Guided Online Active Learning Scheme for Real-Time Safety Assessment}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-12},
+  keywords={Task analysis;Streams;Safety;Data models;Annotations;Real-time systems;Adaptation models;Broad learning system (BLS);concept drift;explainable artificial intelligence;online active learning (OAL);real-time safety assessment (RTSA)},
+  doi={10.1109/TCYB.2023.3339242}
+}
+```
+
 ## Contact
 
 For any inquiries or questions regarding the scheme, feel free to contact us at [liuzy21@mails.tsinghua.edu.cn](mailto:liuzy21@mails.tsinghua.edu.cn).
