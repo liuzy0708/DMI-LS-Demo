@@ -86,7 +86,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any inquiries or questions regarding the scheme, feel free to contact us at [your_email@example.com](mailto:your_email@example.com).
+For any inquiries or questions regarding the scheme, feel free to contact us at [liuzy21@mails.tsinghua.edu.cn](mailto:liuzy21@mails.tsinghua.edu.cn).
 
 ## Acknowledgments
 
