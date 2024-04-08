@@ -90,7 +90,7 @@ For any inquiries or questions regarding the scheme, feel free to contact us at 
 
 ## Acknowledgments
 
-We would like to acknowledge the support and contributions of [list of contributors or organizations] in the development of this scheme.
+We would like to acknowledge the support and contributions of the Department of Automation, Tsinghua University, in the development of this scheme.
 
 ---
 
