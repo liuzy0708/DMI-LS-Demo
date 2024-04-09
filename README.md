@@ -109,7 +109,7 @@ For any inquiries or questions regarding the scheme, feel free to contact us at 
 
 ## Acknowledgments
 
-We extend our sincere gratitude to the THUFDD Group, led by Prof. Xiao He and Prof. Donghua Zhou, for their invaluable support and contributions to the development of this scheme.
+We extend our sincere gratitude to our THUFDD Group, led by Prof. Xiao He and Prof. Donghua Zhou, for their invaluable support and contributions to the development of this scheme.
 
 
 ---
